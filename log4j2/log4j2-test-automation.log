@@ -1,0 +1,116 @@
+[INFO ] 2022-03-10 11:03:50.303 [TestNG-PoolService-0] Log - Launching browser
+[INFO ] 2022-03-10 11:03:50.303 [TestNG-PoolService-3] Log - Launching browser
+[INFO ] 2022-03-10 11:03:50.303 [TestNG-PoolService-1] Log - Launching browser
+[INFO ] 2022-03-10 11:03:50.303 [TestNG-PoolService-2] Log - Launching browser
+[INFO ] 2022-03-10 11:03:50.303 [TestNG-PoolService-4] Log - Launching browser
+[INFO ] 2022-03-10 11:05:47.264 [TestNG-PoolService-2] Log - Launching browser
+[INFO ] 2022-03-10 11:05:47.264 [TestNG-PoolService-4] Log - Launching browser
+[INFO ] 2022-03-10 11:05:47.264 [TestNG-PoolService-0] Log - Launching browser
+[INFO ] 2022-03-10 11:05:47.264 [TestNG-PoolService-1] Log - Launching browser
+[INFO ] 2022-03-10 11:05:47.264 [TestNG-PoolService-3] Log - Launching browser
+[INFO ] 2022-03-10 11:07:10.340 [TestNG-PoolService-4] Log - User Name is entered
+[INFO ] 2022-03-10 11:07:12.021 [TestNG-PoolService-3] Log - User Name is entered
+[INFO ] 2022-03-10 11:07:16.185 [TestNG-PoolService-3] Log - Password is entered
+[INFO ] 2022-03-10 11:07:20.822 [TestNG-PoolService-0] Log - User Name is entered
+[INFO ] 2022-03-10 11:07:22.573 [TestNG-PoolService-1] Log - User Name is entered
+[INFO ] 2022-03-10 11:07:22.617 [TestNG-PoolService-2] Log - User Name is entered
+[INFO ] 2022-03-10 11:07:23.411 [TestNG-PoolService-4] Log - Password is entered
+[INFO ] 2022-03-10 11:07:31.278 [TestNG-PoolService-2] Log - Password is entered
+[INFO ] 2022-03-10 11:07:31.967 [TestNG-PoolService-0] Log - Password is entered
+[INFO ] 2022-03-10 11:07:32.588 [TestNG-PoolService-1] Log - Password is entered
+[INFO ] 2022-03-10 11:07:38.175 [TestNG-PoolService-3] Log - Login Button is clicked
+[INFO ] 2022-03-10 11:07:59.069 [TestNG-PoolService-4] Log - Login Button is clicked
+[INFO ] 2022-03-10 11:07:59.111 [TestNG-PoolService-0] Log - Login Button is clicked
+[INFO ] 2022-03-10 11:07:59.156 [TestNG-PoolService-2] Log - Login Button is clicked
+[INFO ] 2022-03-10 11:08:01.301 [TestNG-PoolService-1] Log - Login Button is clicked
+[INFO ] 2022-03-10 11:08:01.334 [TestNG-PoolService-3] Log - New Contact is clicked
+[INFO ] 2022-03-10 11:08:01.852 [TestNG-PoolService-3] Log - First Name is entered
+[INFO ] 2022-03-10 11:08:02.325 [TestNG-PoolService-3] Log - Last Name is entered
+[INFO ] 2022-03-10 11:08:02.711 [TestNG-PoolService-3] Log - Mobile is entered
+[INFO ] 2022-03-10 11:08:03.091 [TestNG-PoolService-3] Log - Email is entered
+[INFO ] 2022-03-10 11:08:08.768 [TestNG-PoolService-3] Log - Save is clicked
+[INFO ] 2022-03-10 11:08:11.289 [TestNG-PoolService-2] Log - New Contact is clicked
+[INFO ] 2022-03-10 11:08:12.354 [TestNG-PoolService-0] Log - New Contact is clicked
+[INFO ] 2022-03-10 11:08:12.414 [TestNG-PoolService-4] Log - New Contact is clicked
+[INFO ] 2022-03-10 11:08:12.847 [TestNG-PoolService-1] Log - New Contact is clicked
+[INFO ] 2022-03-10 11:08:13.352 [TestNG-PoolService-2] Log - First Name is entered
+[INFO ] 2022-03-10 11:08:13.957 [TestNG-PoolService-2] Log - Last Name is entered
+[INFO ] 2022-03-10 11:08:14.523 [TestNG-PoolService-2] Log - Mobile is entered
+[INFO ] 2022-03-10 11:08:14.563 [TestNG-PoolService-4] Log - First Name is entered
+[INFO ] 2022-03-10 11:08:14.704 [TestNG-PoolService-1] Log - First Name is entered
+[INFO ] 2022-03-10 11:08:15.314 [TestNG-PoolService-2] Log - Email is entered
+[INFO ] 2022-03-10 11:08:16.343 [TestNG-PoolService-1] Log - Last Name is entered
+[INFO ] 2022-03-10 11:08:16.458 [TestNG-PoolService-4] Log - Last Name is entered
+[INFO ] 2022-03-10 11:08:17.103 [TestNG-PoolService-1] Log - Mobile is entered
+[INFO ] 2022-03-10 11:08:17.125 [TestNG-PoolService-4] Log - Mobile is entered
+[INFO ] 2022-03-10 11:08:17.698 [TestNG-PoolService-4] Log - Email is entered
+[INFO ] 2022-03-10 11:08:17.765 [TestNG-PoolService-1] Log - Email is entered
+[INFO ] 2022-03-10 11:08:20.394 [TestNG-PoolService-2] Log - Save is clicked
+[INFO ] 2022-03-10 11:08:22.956 [TestNG-PoolService-4] Log - Save is clicked
+[INFO ] 2022-03-10 11:08:23.203 [TestNG-PoolService-1] Log - Save is clicked
+[INFO ] 2022-03-10 12:48:09.615 [TestNG-PoolService-5] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.615 [TestNG-PoolService-7] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.622 [TestNG-PoolService-3] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.622 [TestNG-PoolService-6] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.622 [TestNG-PoolService-1] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.617 [TestNG-PoolService-4] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.616 [TestNG-PoolService-2] Log - Launching browser CHROME
+[INFO ] 2022-03-10 12:48:09.617 [TestNG-PoolService-0] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:47.959 [main] Log - This should execute before any code
+[INFO ] 2022-03-10 14:25:48.510 [TestNG-PoolService-4] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.512 [TestNG-PoolService-5] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.514 [TestNG-PoolService-0] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.514 [TestNG-PoolService-7] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.516 [TestNG-PoolService-2] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.516 [TestNG-PoolService-3] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.518 [TestNG-PoolService-1] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:25:48.518 [TestNG-PoolService-6] Log - Launching browser CHROME
+[INFO ] 2022-03-10 14:27:11.407 [TestNG-PoolService-7] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:13.481 [TestNG-PoolService-2] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:13.955 [TestNG-PoolService-4] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:16.282 [TestNG-PoolService-1] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:16.965 [TestNG-PoolService-3] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:18.396 [TestNG-PoolService-6] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:18.405 [TestNG-PoolService-7] Log - Password is entered
+[INFO ] 2022-03-10 14:27:21.007 [TestNG-PoolService-0] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:23.996 [TestNG-PoolService-2] Log - Password is entered
+[INFO ] 2022-03-10 14:27:25.201 [TestNG-PoolService-1] Log - Password is entered
+[INFO ] 2022-03-10 14:27:25.247 [TestNG-PoolService-3] Log - Password is entered
+[INFO ] 2022-03-10 14:27:25.580 [TestNG-PoolService-4] Log - Password is entered
+[INFO ] 2022-03-10 14:27:26.158 [TestNG-PoolService-6] Log - Password is entered
+[INFO ] 2022-03-10 14:27:27.153 [TestNG-PoolService-0] Log - Password is entered
+[INFO ] 2022-03-10 14:27:27.592 [TestNG-PoolService-5] Log - User Name is entered
+[INFO ] 2022-03-10 14:27:36.141 [TestNG-PoolService-5] Log - Password is entered
+[INFO ] 2022-03-10 14:27:41.658 [TestNG-PoolService-7] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:45.274 [TestNG-PoolService-1] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:49.175 [TestNG-PoolService-2] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:49.256 [TestNG-PoolService-6] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:49.404 [TestNG-PoolService-0] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:50.174 [TestNG-PoolService-4] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:52.312 [TestNG-PoolService-3] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:52.508 [TestNG-PoolService-5] Log - Login Button is clicked
+[INFO ] 2022-03-10 14:27:57.283 [TestNG-PoolService-4] Log - New Contact is clicked
+[INFO ] 2022-03-10 14:27:57.874 [TestNG-PoolService-0] Log - New Contact is clicked
+[INFO ] 2022-03-10 14:27:58.306 [TestNG-PoolService-3] Log - New Contact is clicked
+[INFO ] 2022-03-10 14:27:58.573 [TestNG-PoolService-2] Log - New Contact is clicked
+[INFO ] 2022-03-10 14:27:59.474 [TestNG-PoolService-1] Log - New Contact is clicked
+[INFO ] 2022-03-10 14:27:59.483 [TestNG-PoolService-4] Log - First Name is entered
+[INFO ] 2022-03-10 14:27:59.679 [TestNG-PoolService-3] Log - First Name is entered
+[INFO ] 2022-03-10 14:27:59.813 [TestNG-PoolService-2] Log - First Name is entered
+[INFO ] 2022-03-10 14:27:59.979 [TestNG-PoolService-3] Log - Last Name is entered
+[INFO ] 2022-03-10 14:28:00.225 [TestNG-PoolService-1] Log - First Name is entered
+[INFO ] 2022-03-10 14:28:00.425 [TestNG-PoolService-3] Log - Mobile is entered
+[INFO ] 2022-03-10 14:28:00.510 [TestNG-PoolService-4] Log - Last Name is entered
+[INFO ] 2022-03-10 14:28:00.860 [TestNG-PoolService-3] Log - Email is entered
+[INFO ] 2022-03-10 14:28:00.893 [TestNG-PoolService-2] Log - Last Name is entered
+[INFO ] 2022-03-10 14:28:01.174 [TestNG-PoolService-1] Log - Last Name is entered
+[INFO ] 2022-03-10 14:28:01.356 [TestNG-PoolService-4] Log - Mobile is entered
+[INFO ] 2022-03-10 14:28:01.592 [TestNG-PoolService-2] Log - Mobile is entered
+[INFO ] 2022-03-10 14:28:01.750 [TestNG-PoolService-1] Log - Mobile is entered
+[INFO ] 2022-03-10 14:28:01.853 [TestNG-PoolService-4] Log - Email is entered
+[INFO ] 2022-03-10 14:28:02.130 [TestNG-PoolService-2] Log - Email is entered
+[INFO ] 2022-03-10 14:28:02.326 [TestNG-PoolService-1] Log - Email is entered
+[INFO ] 2022-03-10 14:28:04.132 [TestNG-PoolService-3] Log - Save is clicked
+[INFO ] 2022-03-10 14:28:05.668 [TestNG-PoolService-1] Log - Save is clicked
+[INFO ] 2022-03-10 14:28:07.723 [TestNG-PoolService-4] Log - Save is clicked
+[INFO ] 2022-03-10 14:28:07.812 [TestNG-PoolService-2] Log - Save is clicked
